@@ -4,12 +4,18 @@ import classes from "./Products.module.css";
 const DUMMY_DATA = [
   {
     id: 1,
-    title: "Piroca",
+    title: "Pão",
     description: "Pão de forma",
     quantity: 1,
     price: 10,
   },
-  { id: 2, title: "Teu pu", description: "beans", quantity: 1, price: 1 },
+  {
+    id: 2,
+    title: "Mangekyou Sharingam",
+    description: "beans",
+    quantity: 1,
+    price: 999,
+  },
   { id: 3, title: "arroz", description: "arroiz", quantity: 1, price: 2 },
   {
     id: 4,
