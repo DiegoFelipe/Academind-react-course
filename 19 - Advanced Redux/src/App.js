@@ -25,7 +25,7 @@ function App() {
         })
       );
       const response = await fetch(
-        "https://react-http-6b4a6.firebaseio.com/cart.json",
+        "https://react-course-cfb94-default-rtdb.firebaseio.com/cart.json",
         {
           method: "PUT",
           body: JSON.stringify(cart),
