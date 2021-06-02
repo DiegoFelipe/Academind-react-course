@@ -11,10 +11,10 @@ const DUMMY_DATA = [
   },
   {
     id: 2,
-    title: "Mangekyou Sharingam",
+    title: "Feijão",
     description: "beans",
     quantity: 1,
-    price: 999,
+    price: 9,
   },
   { id: 3, title: "arroz", description: "arroiz", quantity: 1, price: 2 },
   {
